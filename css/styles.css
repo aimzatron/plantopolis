@@ -1,0 +1,40 @@
+.welcome-header {
+  text-align: center;
+}
+
+.plot {
+  background-image: url("https://plantopolis.s3-us-west-1.amazonaws.com/sky.png");
+  background-size: auto;
+  height: 300px;
+}
+
+button {
+  position: absolute;
+  top: 72%;
+  right: 35%;
+  z-index:1;
+}
+
+.sprout {
+  position: relative;
+  top: -54%;
+  right: -41%;
+}
+
+.bud {
+  position: relative;
+  top: -70%;
+  right: -41%;
+}
+
+.blooming {
+  position: relative;
+  top: -84%;
+  right: -41%;
+}
+
+.bloomed {
+  position: relative;
+  top: -97%;
+  right: -41%;
+}
