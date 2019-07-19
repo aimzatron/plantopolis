@@ -1,5 +1,4 @@
 $(document).ready(function () {
-
   function addAction(classes, text, plot) {
     plot.append(`<button type='button' class='${classes}'>${text}</button>`)
   }
