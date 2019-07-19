@@ -3,7 +3,7 @@
 ### Setup:
 
 - Clone the repo
-- Visit the Plantopolis page in your browser
+- Open `plantopolis.html` in your browser
 - Play!
 
 ### How to play:
